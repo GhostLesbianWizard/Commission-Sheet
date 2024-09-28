@@ -51,6 +51,12 @@ div h2 {
       font-size: 1em;
     }
   }
+@media (max-width: 1500px) {
+    .sectionComms {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+  }
 img {
     width: 100%;
     border: solid black 5px;
