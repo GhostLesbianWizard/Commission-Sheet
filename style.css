@@ -57,6 +57,11 @@ div h2 {
         margin-right: 5%;
     }
   }
+@media (max-width: 1500px) {
+    .nonDisplayMobile {
+        display: none;
+    }
+  }
 img {
     width: 100%;
     border: solid black 5px;
